@@ -9,8 +9,8 @@ git clone https://github.com/Chongliang-Utopia/Recipe_Spring_Web_Application.git
  
 # Built with
 - **Front-end**
-  - thymeleaf
-  - HTML
+  - Thymeleaf
+  - HTML/CSS
 
 - **Back-end**
   - Spring Boot
